@@ -1,5 +1,5 @@
-## Hi there 👋
-Hello!
+## 
+与君共勉
 <!--
 **Uwx9/Uwx9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
